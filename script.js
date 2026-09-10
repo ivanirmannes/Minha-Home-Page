@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
     /* ========== 6. LINK WHATSAPP ========== */
     // EDITÁVEL: Mensagem padrão do WhatsApp
     const whatsappLinks = document.querySelectorAll('a[href*="wa.me"]');
-    const defaultMessage = encodeURIComponent('Olá! Gostaria de agendar uma consulta nutricional.');
+    const defaultMessage = encodeURIComponent('Olá! Gostaria de agendar um horário.');
 
     whatsappLinks.forEach(link => {
         const currentHref = link.getAttribute('href');

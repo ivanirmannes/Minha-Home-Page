@@ -23,7 +23,7 @@ Uma landing page moderna e responsiva que apresenta os serviços de terapia inte
 - HTML5 - Semântico e acessível
 - CSS3 - Grid, Flexbox, Variáveis CSS
 - JavaScript  - Sem dependências externas
-- ntersectionObserver API - Animações otimizadas
+ - ntersectionObserver API - Animações otimizadas
 
 
 
